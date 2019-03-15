@@ -1,6 +1,11 @@
 # Demo DBS
 
-The demo for the paper of "Semantic Labeling for Numerical Values: Distribution Base Similarities". This paper aims to provide a new distribution-based approaches which addressed the limitation of the p-value based similarity approaches. 
+The demo for the paper of:
+
+P. Nguyen and H. Takeda: Semantic Labeling for Numerical Values: Distribution Base Similarities. Special Inerest Group for Semantic Web and Ontology, Vol. 47, No. 12, 2019
+[Link](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9812&item_no=1&page_id=13&block_id=23)
+
+This paper aims to provide a new distribution-based approaches which addressed the limitation of the p-value based similarity approaches.
 
 ### License
 MIT License

@@ -7,6 +7,20 @@ P. Nguyen and H. Takeda: Semantic Labeling for Numerical Values: Distribution Ba
 
 This paper aims to provide a new distribution-based approaches which addressed the limitation of the p-value based similarity approaches.
 
+### How to run the code
+```
+git clone https://github.com/phucty/dbs.git
+cd dbs
+conda create -n dbs python=3.6
+conda activate dbs
+pip install -r requirements.txt
+```
+Then you can run the example in [labeling.py](labeling.py)
+```
+python labeling.py
+```
+or run the python notebook in [test_labeling.ipynb](test_labeling.ipynb)
+
 ### License
 MIT License
 
